@@ -24,4 +24,3 @@ jobs:
 
       - name: Push Docker image
         run: docker push ghcr.io/${{ secrets.GHCR_USERNAME }}/ci-demo:latest
-
