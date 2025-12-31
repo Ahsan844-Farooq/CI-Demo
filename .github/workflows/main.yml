@@ -1,4 +1,4 @@
-name: CI Demo
+name: Devops Project
 
 on: [push, pull_request]
 
